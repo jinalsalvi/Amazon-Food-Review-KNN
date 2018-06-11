@@ -20,3 +20,5 @@
         
  __Objective: Given a review determine whether a review is positive or negative  by appling KNN algorithm and deciding the best Feature generation technique for given problem.__
        
+### Download notebook and data from Kaggle 
+#### https://www.kaggle.com/jinalsalvi/amazon-food-review-prediction-with-knn
