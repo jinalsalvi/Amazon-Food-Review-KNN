@@ -1,7 +1,7 @@
 # Amazon-Food-Review-KNN
 
 ## Introduction  
- This python notebook for Amazon food reviews polarity prediction based on the given review data by applying K Nearest Neighbors (KNN) algorithm. To build generalized prediction model first step should be necessary cleaning of data as a part of data preprocessing.    
+ This python notebook is for Amazon food reviews polarity prediction based on the given review data by applying K Nearest Neighbors (KNN) algorithm. To build generalized prediction model first step should be necessary cleaning of data as a part of data preprocessing.    
         
  We will perform following data preprocessing.    
         
