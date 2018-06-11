@@ -18,5 +18,5 @@
         
      Using KNN algorithm we will build model to predict review polarity for each technique.    
         
-     <b>Objective: Given a review determine whether a review is positive or negative  by appling KNN algorithm and deciding the best Feature generation technique for given problem.</b>    
+ __Objective: Given a review determine whether a review is positive or negative  by appling KNN algorithm and deciding the best Feature generation technique for given problem.__
        
