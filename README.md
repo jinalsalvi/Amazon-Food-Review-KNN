@@ -1,6 +1,6 @@
 # Amazon-Food-Review-KNN
 
-"# 1 Introduction\n",
+# Introduction\n,
     "This python notebook for Amazon food reviews polarity prediction based on the given review data by applying K Nearest Neighbors (KNN) algorithm. To build generalized prediction model first step should be necessary cleaning of data as a part of data preprocessing. \n",
     "\n",
     "We will perform following data preprocessing. \n",
